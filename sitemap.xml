@@ -31,7 +31,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://laykim829.github.io/baby-life-lab/posts/baby-carrier-guide.html</loc>
+    <loc>https://laykim829.github.io/baby-life-lab/posts/newborn-bathing-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/baby-life-lab/posts/weaning-food-start-guide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://laykim829.github.io/baby-life-lab/posts/baby-sleep-training-guide.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
